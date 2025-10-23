@@ -1,0 +1,4 @@
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+flatlib==0.2.3
+pytz==2023.3.post1
