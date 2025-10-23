@@ -1,5 +1,5 @@
 fastapi==0.110.0
 uvicorn==0.27.1
 flatlib==0.2.3
-pyswisseph==2.10.3.2
+pyswisseph==2.08.00-1
 pytz==2024.1
